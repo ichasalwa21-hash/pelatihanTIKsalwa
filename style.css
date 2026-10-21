@@ -11,7 +11,8 @@ border-radius: 15px; /* Membuat sudut menjadu melengkung */
 box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
 }
 [
-.kartu-profil img {
+.kartu-profil img{
 width: 150px;
+height: 150px;
 border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran */
 }
