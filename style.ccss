@@ -1,0 +1,12 @@
+body {
+background-color: #3b7ec2; /* Warna biru */
+font-family: Arial, sans serif; /* Warna teks utama (putih)
+}
+.kartu-profil {
+width: 300px;
+margin: 50px auto; /* 50px jarak atas?bawag, auto menengahkan kiri kanan */
+padding 20px;
+background-color: white;
+border-radius: 15px; /* Membuat sudut menjadu melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+}
