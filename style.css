@@ -7,8 +7,9 @@ width: 300px;
 margin: 50px auto; /* 50px jarak atas?bawag, auto menengahkan kiri kanan */
 padding: 20px;
 background-color: white;
-border-radius: 15px; /* Membuat sudut menjadu melengkung */
-box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+border-radius: 50px; /* Membuat sudut menjadu melengkung */
+box-shadow: 0 12px 20px black); /* efek bayangan */
+  text-align: center;
 }
 [
 .kartu-profil img{
