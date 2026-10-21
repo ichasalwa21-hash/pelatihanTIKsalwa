@@ -1,4 +1,4 @@
 const tombolSapa = document.getElementById('Hello')
 tombolSapa.addEventListener('click', function() {
-alert('TERIMA KASIH TELAH BERKUNJUNG! <3');
+alert("Endless riddles, but the answer is nothing but a void.");
 });
